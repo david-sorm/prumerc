@@ -19,4 +19,7 @@ void main() {
     printf("sracka slabyho c. 4 je %d", &srackySlabyho[4]);
 
     printf("mazuch ma zucc\n");
+
+    printf("starek good");
+    printf("strihavka zid");
 }
