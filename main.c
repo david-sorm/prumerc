@@ -17,4 +17,6 @@ int* vratSrackySlabyho() {
 void main() {
     int* srackySlabyho = vratSrackySlabyho();
     printf("sracka slabyho c. 4 je %d", &srackySlabyho[4]);
+
+    printf("mazuch ma zucc\n");
 }
