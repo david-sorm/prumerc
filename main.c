@@ -19,7 +19,11 @@ void main() {
     printf("sracka slabyho c. 4 je %d", &srackySlabyho[4]);
 
     printf("mazuch ma zucc\n");
-
+ 
     printf("starek good");
     printf("strihavka zid");
+
+    printf("slaby je dobry ucitel");
+    printf("slaby jezdi multiplou");
+    printf("fiala ma felicii a nevejde se do ni");
 }
